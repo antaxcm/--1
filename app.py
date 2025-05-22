@@ -37,9 +37,6 @@ with st.sidebar:
     
     st.header("О программе")
     st.write("Это приложение помогает создавать и управлять персонажами для Dungeons & Dragons 5-й редакции.")
-    
-    st.markdown("---")
-    st.write("Сделано с ❤️ на Streamlit")
 
 # Create Character Page
 if page == "Создать персонажа":
